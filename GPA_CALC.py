@@ -1,8 +1,9 @@
 #GPA_CALC.py
-#this program calcultes the weighted and unweighted gpa of highschoolers
+#this program calcultes the unweighted gpa 
+#Will expand to include weighted gpa 
 
 def main():
-    print ('This program calcultes the weighted and unweighted gpa of highschoolers.')
+    print ('This program calcultes the weighted gpa ')
     print('Hope this works')
 
     class_num = eval(input("Enter number of classes: "))
